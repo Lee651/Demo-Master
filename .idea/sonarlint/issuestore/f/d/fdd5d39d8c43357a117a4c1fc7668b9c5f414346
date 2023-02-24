@@ -1,0 +1,16 @@
+
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(î‚Æé
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(£±‡Åüÿÿÿÿ
+E
+java:S3740F"/Provide the parametrized type for this generic.(ĞŞ®
+Ì
+java:S1598"©This file "FileController.java" should be located in "com\wm\file" directory, not in "D:\code\demo-master\ThreadExportExcelDataNew\src\main\java\com\wm\file\controller".(£®Öşûÿÿÿÿ8Ê¿†¹Ş0
+S	java:S106("9Replace this use of System.out or System.err by a logger.(øñ—¦ùÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(°ÄÔ­
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(øñ—¦ùÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(°ÄÔ­
+]
+java:S1075£"ARefactor your code to get this URI from a customizable parameter.(ä½è¼úÿÿÿÿ

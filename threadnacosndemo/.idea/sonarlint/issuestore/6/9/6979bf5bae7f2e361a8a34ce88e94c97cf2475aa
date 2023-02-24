@@ -1,0 +1,12 @@
+
+>
+java:S1604-"(Make this anonymous inner class a lambda(Ò‘›•
+>
+java:S1604W"(Make this anonymous inner class a lambda(¼Ò‹°
+L
+java:S2696*"6Make the enclosing method "static" or remove this set.(ÖÜÄ”
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ïÆ€†ÿÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(íÿ—ÿÿÿÿÿ
+t
+java:S2142]"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106["9Replace this use of System.out or System.err by a logger.(šáùñ
